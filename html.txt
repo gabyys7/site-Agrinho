@@ -10,10 +10,10 @@
   <header>
     <h1>Projeto Agrinho</h1>
     <p>Por Nome do Aluno</p>
-    <p>Educação, Sustentabilidade e Cidadania</p>
+    <p>Educacao, Sustentabilidade e Cidadania</p>
   </header>
 
-  <nav>
+  <nav
     <ul>
       <li><a href="#sobre">Sobre</a></li>
       <li><a href="#atividades">Atividades</a></li>
