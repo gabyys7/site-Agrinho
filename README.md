@@ -2,9 +2,9 @@
 
 Este é um site criado como parte do **Projeto Agrinho**, desenvolvido com HTML e CSS, com o objetivo de promover a educação, a sustentabilidade, a cidadania e a valorização da vida no campo.
 
-> 👨‍💻 Desenvolvido por: **[Seu Nome Aqui]**  
+> 👨‍💻 Desenvolvido por: **[Gabrielly]**  
 > 📅 Ano: 2025  
-> 🌐 Site online: [https://seu-usuario.github.io/site-agrinho/](https://seu-usuario.github.io/site-agrinho/)
+> 🌐 Site online: [https://gabyys7.github.io/site-agrinho/](https://seu-usuario.github.io/site-agrinho/)
 
 ---
 
@@ -28,9 +28,8 @@ O **Agrinho** é um programa educacional que incentiva alunos e professores a re
 
 ## 🛠️ Tecnologias Utilizadas
 
-- HTML5
-- CSS3
-- Git & GitHub Pages
+- HTML
+- CSS
 - VS Code
 
 ---
@@ -38,7 +37,7 @@ O **Agrinho** é um programa educacional que incentiva alunos e professores a re
 ## 🚀 Como acessar
 
 Você pode acessar o site diretamente pelo GitHub Pages:  
-👉 [Clique aqui para ver o site](https://seu-usuario.github.io/site-agrinho/)
+👉 [Clique aqui para ver o site](https://gabyys7.github.io/site-agrinho/)
 
 ---
 
