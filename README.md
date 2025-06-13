@@ -1,6 +1,6 @@
 # 🌱 Projeto Agrinho - Site Educacional
 
-Este é um site criado como parte do **Projeto Agrinho**, desenvolvido com HTML e CSS, com o objetivo de promover a educação, a sustentabilidade, a cidadania e a valorização da vida no campo.
+Este e um site criado como parte do **Projeto Agrinho**, desenvolvido com HTML e CSS, com o objetivo de promover a educacao, a sustentabilidade, a cidadania e a valorizacao da vida no campo.
 
 > 👨‍💻 Desenvolvido por: **[Gabrielly]**  
 > 📅 Ano: 2025  
@@ -10,7 +10,7 @@ Este é um site criado como parte do **Projeto Agrinho**, desenvolvido com HTML 
 
 ## 🧠 Sobre o Projeto
 
-O **Agrinho** é um programa educacional que incentiva alunos e professores a refletirem sobre temas como meio ambiente, ética, respeito, cultura rural e sustentabilidade. Este site visa compartilhar essas ideias de forma interativa e moderna.
+O **Agrinho** e um programa educacional que incentiva alunos e professores a refletirem sobre temas como meio ambiente, etica, respeito, cultura rural e sustentabilidade. Este site visa compartilhar essas ideias de forma interativa e moderna.
 
 ---
 
