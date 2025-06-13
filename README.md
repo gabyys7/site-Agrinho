@@ -47,9 +47,6 @@ Você pode acessar o site diretamente pelo GitHub Pages:
 
 ---
 
-## 📥 Como clonar e rodar localmente
 
-```bash
-git clone https://github.com/seu-usuario/site-agrinho.git
-cd site-agrinho
-# Abrir o arquivo index.html no navegador
+
+
